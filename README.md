@@ -2,9 +2,7 @@
 ---
 language:
   - en
-license: other
-license_name: GPLv3
-license_link: LICENSE
+license: mit
 tags:
   - x86-64
   - linux
@@ -14,6 +12,7 @@ tags:
   - debugging
   - symbolic-debugging
   - reverse-engineering
+  - cybersecurity
   - security-research
   - ai-agent
   - agent-architecture
